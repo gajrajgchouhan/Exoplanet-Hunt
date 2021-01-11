@@ -6,7 +6,7 @@ __all__ = ['reader']
 
 def reader(location):
     """
-    Returns prime numbers up to imax.
+    Returns normalised data.
 
     Parameters
     ----------
